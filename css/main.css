@@ -1,0 +1,18 @@
+* {
+  font-size: 40px;
+
+}
+
+body {
+  height: 100vh;
+  background-image: url('../img/city.jpg');
+  background-repeat:no-repeat;
+  background-position: center bottom;
+
+}
+
+.search-form {
+  margin: 50px auto;
+  width: 30%;
+  display: block;
+}
